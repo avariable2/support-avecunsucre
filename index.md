@@ -23,7 +23,7 @@ title: Support — AvecUnSucre
 
   <section class="card">
     <h2>Nous contacter</h2>
-    <form class="support-form" action="https://formspree.io/f/SEED-REMPLACE-MOI" method="POST">
+    <form class="support-form" action="https://formspree.io/f/app@avecunsucre.com" method="POST">
       <label for="email">Votre e-mail
         <input id="email" type="email" name="email" placeholder="[email protected]" required>
       </label>
