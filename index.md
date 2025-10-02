@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Support — TonApp
+title: Support — AvecUnSucre
 ---
 
-# Support — TonApp
+# Support — AvecUnSucre
 Besoin d’aide ? Voici les ressources officielles.
 
 ## FAQ express
