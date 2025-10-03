@@ -2,7 +2,7 @@
 layout: default
 title: Support — AvecUnSucre
 ---
-
+![Icône de l’app](/assets/app-icon.png){: .float-right width="80" }
 # Support — AvecUnSucre
 Besoin d’aide ? Voici les ressources officielles.
 
